@@ -18,8 +18,8 @@ This is version 1 of this tool, stay connected for future updates.
 
 ### New Features:
 
-- **Attachment Supported:** 
-- **Proxy Supported:**
+- **Attachment Supported** 
+- **Proxy Supported**
 - **HTML Email Support** 
-- **Upgraded GUI:** 
-- **New colors:** 
+- **Upgraded GUI** 
+- **New colors** 
